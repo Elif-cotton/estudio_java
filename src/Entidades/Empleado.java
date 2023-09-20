@@ -5,7 +5,7 @@ public class Empleado {
     private String nombre;
     private double salario;
 
-    //contructores
+    //constructor
 
     public Empleado() {
     }
